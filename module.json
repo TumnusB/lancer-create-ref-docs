@@ -1,0 +1,18 @@
+{
+  "id": "lancer-create-actionref",
+  "title": "A Quick and Dirty Lancer Rules Journal Generator",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "Tumnus"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.312"
+  },
+      "scripts": [
+        "./scripts/actions.js"
+    ]
+}
