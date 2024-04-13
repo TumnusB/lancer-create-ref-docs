@@ -13,6 +13,7 @@
     "verified": "10.312"
   },
       "scripts": [
-        "./scripts/actions.js"
+        "./scripts/actions.js",
+        "./scripts/glossary.js"
     ]
 }
